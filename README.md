@@ -1,16 +1,31 @@
-### <div align="center"> Hello i'm Radapls ✌</div>
+### <div align="center"> <img align="center" alt="Rada-Js" height="40" width="40" src="https://github.com/Radapls/radapls.github.io/blob/main/assets/img/JFR.png"/> Hello i'm Radapls ✌
+</div>
+
+  <div align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=Radapls&style=flat-square" alt=""/>
+  </div>
+
 
 - 🔭 Currently working as front-end developer.
 - 👀 Always looking for something new.
 - 🖌 Also i know about design.
 
 <div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Radapls&theme=dark)](https://git.io/streak-stats)
+  
   <a href="https://github.com/Radapls">
   <img  height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=radapls&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=contribs,prs,issues,stars"/>
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=radapls&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Rada-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  &emsp;
+  <img align="center" alt="Rada-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  &emsp;
+   <img align="center" alt="Rada-Taillwindcss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  &emsp;
   <img align="center" alt="Rada-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   &emsp;
   <img align="center" alt="Rada-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -42,7 +57,4 @@
  
 <div align="center"> 
   <a href = "mailto:radapls8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/radapls/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/radapls" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/RadaPls" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</div>
+  <a href="https://www.linkedin.com/in/radapls/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

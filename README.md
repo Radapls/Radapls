@@ -1,4 +1,4 @@
-### <div align="center"> <img align="center" alt="Rada-Js" height="40" width="40" src="https://github.com/Radapls/radapls.github.io/blob/main/assets/img/JFR.png"/> Hello i'm Radapls ✌
+### <div align="center"> <img align="center" alt="Rada-Js" height="60" width="60" src="https://github.com/Radapls/radapls.github.io/blob/main/assets/img/JFR.png"/> Hello i'm Juan Felipe Rada ✌
 </div>
 
   <div align="center">
@@ -9,6 +9,7 @@
 - 🔭 Currently working as front-end developer.
 - 👀 Always looking for something new.
 - 🖌 Also i know about design.
+- 🇨🇴 🇧🇷 🇺🇸
 
 <div align="center">
   
@@ -22,18 +23,22 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rada-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   &emsp;
+    <img align="center" alt="Rada-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  &emsp;
   <img align="center" alt="Rada-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  &emsp;
+    <img align="center" alt="Rada-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   &emsp;
    <img align="center" alt="Rada-Taillwindcss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   &emsp;
-  <img align="center" alt="Rada-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-  &emsp;
-  <img align="center" alt="Rada-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+     <img align="center" alt="Rada-Styled-components" height="40" width="40" src="https://styled-components.com/logo.png"/>
   &emsp;
   <img  align="center" alt="Rada-Sass" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   &emsp;
-  <img align="center" alt="Rada-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img align="center" alt="Rada-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   &emsp;
+
+
   <img align="center" alt="Rada-NgRx" height="40" width="40" src="https://ngrx.io/assets/images/badge.svg"/>
   </div>
 

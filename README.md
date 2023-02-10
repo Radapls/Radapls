@@ -2,7 +2,7 @@
 </div>
 
   <div align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=Radapls&style=flat-square" alt=""/>
+    <img align="center" src="https://komarev.com/ghpvc/?username=Radapls&style=for-the-badge" alt="Profile visit counter"/>
   </div>
 
 

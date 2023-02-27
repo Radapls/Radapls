@@ -17,7 +17,7 @@
   
   <a href="https://github.com/Radapls">
   <img  height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=radapls&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=contribs,prs,issues,stars"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=radapls&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=radapls&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>

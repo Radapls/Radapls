@@ -4,19 +4,19 @@
   <div align="center">
     <img align="center" src="https://komarev.com/ghpvc/?username=Radapls&style=for-the-badge" alt="Profile visit counter"/>
   </div>
+  <br>
 
 
-- 🔭 Currently working as front-end developer.
-- 👀 Always looking for something new.
-- 🖌 Also i know about design.
-- 🇨🇴 🇧🇷 🇺🇸
+<p align="center"> 🔭 Currently working as front-end developer.</p>
+<p align="center"> 👀 Always looking for something new.</p>
+<p align="center"> 🖌 Also i know about design.</p>
+<p align="center">  🇨🇴 🇧🇷 🇺🇸.</p>
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Radapls&theme=dark)](https://git.io/streak-stats)
   
   <a href="https://github.com/Radapls">
-  <img  height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=radapls&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=contribs,prs,issues,stars"/>
+  <img  height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=Radapls&theme=dark"/>
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=radapls&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 

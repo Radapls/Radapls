@@ -64,6 +64,8 @@
 <div style="display: inline_block" align="center"><br>
    <img align="center" alt="Rada-Ai" height="40" width="40" src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png" />
    &emsp;
+<img align="center" alt="Rada-Ai" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  &emsp;
 </div><br>
 
 

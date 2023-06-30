@@ -6,7 +6,6 @@
   </div>
   <br>
 
-
 <p align="center"> 🔭 Currently working as front-end developer.</p>
 <p align="center"> 👀 Always looking for something new.</p>
 <p align="center"> 🖌 Also i know about design.</p>
@@ -30,7 +29,8 @@
   <img align="center" alt="Rada-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   &emsp;
     <img align="center" alt="Rada-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  &emsp;
+    &emsp;
+  <img align="center" alt="Rada-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -40,12 +40,11 @@
   &emsp;
      <img align="center" alt="Rada-Styled-components" height="40" width="40" src="https://styled-components.com/logo.png"/>
   &emsp;
-  <img align="center" alt="Rada-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  &emsp;
   <img align="center" alt="Rada-NgRx" height="40" width="40" src="https://ngrx.io/assets/images/badge.svg"/>
+    &emsp;   
+  <img align="center" alt="Rada-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
   </div>
 </div>
-  
 
 <div style="display: inline_block" align="center"><br>
    <img align="center" alt="Rada-Ai" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />

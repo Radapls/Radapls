@@ -34,14 +34,14 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
+   <img  align="center" alt="Rada-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  &emsp;
    <img  align="center" alt="Rada-Sass" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   &emsp;
+  <img align="center" alt="Rada-bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  &emsp;        
   <img align="center" alt="Rada-Gatsby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" />
   &emsp;
- <img align="center" alt="Rada-Taillwindcss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-  &emsp;
-     <img align="center" alt="Rada-Styled-components" height="40" width="40" src="https://styled-components.com/logo.png"/>
-  &emsp; 
   <img align="center" alt="Rada-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
   </div>
 </div>

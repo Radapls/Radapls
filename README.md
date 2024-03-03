@@ -39,8 +39,8 @@
    <img  align="center" alt="Rada-Sass" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   &emsp;
   <img align="center" alt="Rada-bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  &emsp;        
-  <img align="center" alt="Rada-Gatsby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" />
+  &emsp;     
+  <img  align="center" alt="Rada-Gatsby" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg" />
   &emsp;
   <img align="center" alt="Rada-Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
   </div>

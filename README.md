@@ -1,4 +1,4 @@
-# <div align="center"> <img align="center" alt="Rada-Js" height="60" width="60" src="https://github.com/Radapls/radapls.github.io/blob/main/assets/img/JFR.png"/> Hello i'm Juan Felipe Rada ✌
+# <div align="center"> <img align="center" alt="Rada-Js" height="60" width="60" src="https://radapls.github.io/_astro/JFR.DyJ4FOAz.webp"/> Hello i'm Juan Felipe Rada ✌
 </div>
 
   <div align="center">

@@ -64,6 +64,7 @@
    &emsp;
 <img align="center" alt="Rada-Ai" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   &emsp;
+<img align="center" alt="Rada-Drupal" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-plain.svg" />
 </div><br>
 
 

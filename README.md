@@ -8,7 +8,6 @@
 
 <p align="center"> 🔭 Currently working as front-end developer.</p>
 <p align="center"> 👀 Always looking for something new.</p>
-<p align="center"> 🖌 Also i know about design.</p>
 <p align="center">  🇨🇴 🇧🇷 🇺🇸.</p>
 
 <div align="center">

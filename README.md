@@ -57,17 +57,6 @@
   <img align="center" alt="Rada-Figma" height="50" width="50" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_540,q_100,w_540/v1/gcs/platform-data-developercircles/events/SparkAR_Symbol_01_FullColor_9Tydjgs.png" />
 </div>
   
-## <div align="center"> Learning <div/>
-
-<div style="display: inline_block" align="center"><br>
-   <img align="center" alt="Rada-Ai" height="40" width="40" src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png" />
-   &emsp;
-<img align="center" alt="Rada-Ai" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  &emsp;
-<img align="center" alt="Rada-Drupal" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-plain.svg" />
-</div><br>
-
-
  
 <div align="center"> 
   <a href = "mailto:radapls8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

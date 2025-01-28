@@ -56,8 +56,12 @@
     &emsp;
   <img align="center" alt="Rada-Figma" height="50" width="50" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_540,q_100,w_540/v1/gcs/platform-data-developercircles/events/SparkAR_Symbol_01_FullColor_9Tydjgs.png" />
 </div>
-  
+
+<div align="center">
+      &emsp;
+</div>
  
 <div align="center"> 
   <a href = "mailto:radapls8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/radapls/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
